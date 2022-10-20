@@ -11,6 +11,7 @@
 - 📫 How to reach me **ayantikray@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/ayantik-ray-584070247/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
 <p align="left">
 </p>
 
