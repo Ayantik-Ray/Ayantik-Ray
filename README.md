@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ayantik Ray</h1>
-<h3 align="center">A beginner Blockchain developer from India</h3>
+<h3 align="center">A beginner ARVR developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🌱 I’m currently learning more on **Blockchain development and Web3**
 
 - 👯 I’m looking to collaborate on **Web3 projects**
 
-- 💬 Ask me about **Web3, Machine Learning , Data Structures and Algorithms**
+- 💬 Ask me about **AR ,VR , Unity ,Web3 , Machine Learning , Data Structures and Algorithms**
 
 - 📫 How to reach me **ayantikray@gmail.com**
 
